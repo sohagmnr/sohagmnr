@@ -52,22 +52,22 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohagmn&layout=compact&theme=transparent" alt=sohagmn />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohagmnr&layout=compact&theme=transparent" alt=sohagmnr />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sohagmn&show_icons=true&locale=en&theme=transparent" alt="sohagmn" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sohagmnr&show_icons=true&locale=en&theme=transparent" alt="sohagmnr" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sohagmn&theme=transparent" alt="sohagmn" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sohagmnr&theme=transparent" alt="sohagmnr" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/sohagmn">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohagmn&theme=transparent" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sohagmn&theme=transparent" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohagmn&theme=transparent" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sohagmn&theme=transparent" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohagmn&theme=transparent" height="180em" />
+<a href="https://github.com/sohagmnr">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohagmnr&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sohagmnr&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohagmnr&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sohagmnr&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohagmnr&theme=transparent" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sohagmn&theme=lucent"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sohagmnr&theme=lucent"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
